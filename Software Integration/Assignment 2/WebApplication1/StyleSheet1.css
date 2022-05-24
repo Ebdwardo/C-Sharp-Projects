@@ -1,0 +1,14 @@
+﻿body {
+    font-family: Tahoma, Arial, sans-serif;
+    font-size: 14px;
+    color: blue;
+    background: yellow;
+    margin: 8px;
+}
+
+h1{
+   font-size: 16px;
+   margin-top: 14px;
+   margin-bottom: 6px;
+   border-bottom: 2px solid black
+}

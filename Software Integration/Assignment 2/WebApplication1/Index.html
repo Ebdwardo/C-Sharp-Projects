@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="StyleSheet1.css">
+    <script src="JsCode.js"></script>
+    <title></title>
+</head>
+<body>
+    <form name="secret">
+        <h1>HTML5 Application</h1>
+        Welcome to the number guessing game! <br /> <br />
+        Enter a lower and upper value:
+        <input id="lower" type="number" />
+        <input id="upper" type="number" />
+        <input id="generate" type="button" value="Generate a Random Number" onclick="SecretNumber()"/> <br /> <br />
+
+        <div id="guessSection" hidden>
+            Guess! <input id="guess" type="number" /> 
+            <input id="Submit1" type="button" value="submit"  onclick="checkNumber()"/> <br />
+            <p id="attempt"></p>
+            <p id="correct" ></p>
+        </div>
+        
+        
+    </form>
+</body>
+</html>
