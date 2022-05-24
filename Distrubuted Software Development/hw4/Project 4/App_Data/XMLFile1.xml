@@ -1,0 +1,419 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Teams xmlns="https://www.public.asu.edu/~eteodosi/Teams.xsd">
+  <Team Rank="44">
+    <Name>Arizona State Sun Devils</Name>
+    <College>Arizona State</College>
+    <Conference>Pac-12</Conference>
+    <Quarterback Height="6'3&quot;">
+      <Name>
+        <First>Jayden</First>
+        <Last>Daniels</Last>
+      </Name>
+      <Number>5</Number>
+      <QBR>68.5</QBR>
+    </Quarterback>
+    <Quarterback Height="6'3&quot;">
+      <Name>
+        <First>Finn</First>
+        <Last>Collins</Last>
+      </Name>
+      <Number>10</Number>
+      <QBR>50</QBR>
+    </Quarterback>
+    <Schedule>
+      <Wk1>S. Utah</Wk1>
+      <Wk2>UNLV</Wk2>
+      <Wk3>BYU</Wk3>
+    </Schedule>
+  </Team>
+  <Team Rank="122">
+    <Name>Arizona Wildcats</Name>
+    <College>University of Arizona</College>
+    <Conference>Pac-12</Conference>
+    <Quarterback Height="6'2&quot;">
+      <Name>
+        <First>Luke</First>
+        <Last>Ashworth</Last>
+      </Name>
+      <Number>13</Number>
+      <QBR>50</QBR>
+    </Quarterback>
+    <Quarterback Height="6'5&quot;">
+      <Name>
+        <First>Gunner</First>
+        <Last>Cruz</Last>
+      </Name>
+      <Number>9</Number>
+      <QBR>65</QBR>
+    </Quarterback>
+    <Schedule>
+      <Wk1>BYU</Wk1>
+      <Wk2>San Diego State</Wk2>
+      <Wk3>Northern Arizona</Wk3>
+    </Schedule>
+  </Team>
+  <Team Rank="88">
+    <Name>California Golden Bears</Name>
+    <College>University of California</College>
+    <Conference>Pac-12</Conference>
+    <Quarterback Height="6'4&quot;">
+      <Name>
+        <First>Blake</First>
+        <Last>DeBisschop</Last>
+      </Name>
+      <Number>13</Number>
+      <QBR>30</QBR>
+    </Quarterback>
+    <Quarterback Height="6'2&quot;">
+      <Name>
+        <First>Chase</First>
+        <Last>Garbers</Last>
+      </Name>
+      <Number>7</Number>
+      <QBR>69.5</QBR>
+    </Quarterback>
+    <Schedule>
+      <Wk1>Nevada</Wk1>
+      <Wk2>TCU</Wk2>
+      <Wk3>Sacramento State</Wk3>
+    </Schedule>
+  </Team>
+  <Team Rank="106">
+    <Name>Colorado Buffaloes</Name>
+    <College>University of Colorado Boulder</College>
+    <Conference>Pac-12</Conference>
+    <Quarterback Height="6'3&quot;">
+      <Name>
+        <First>Drew</First>
+        <Last>Carter</Last>
+      </Name>
+      <Number>9</Number>
+      <QBR>13.7</QBR>
+    </Quarterback>
+    <Quarterback Height="6'3&quot;">
+      <Name>
+        <First>J.T.</First>
+        <Last>Shrout</Last>
+      </Name>
+      <Number>7</Number>
+      <QBR>35</QBR>
+    </Quarterback>
+    <Schedule>
+      <Wk1>Northern Colorado</Wk1>
+      <Wk2>Texas A&amp;M</Wk2>
+      <Wk3>Minnesota</Wk3>
+    </Schedule>
+  </Team>
+  <Team Rank="8">
+    <Name>Oregon Ducks</Name>
+    <College>University of Oregon</College>
+    <Conference>Pac-12</Conference>
+    <Quarterback Height="6'2&quot;">
+      <Name>
+        <First>A.J.</First>
+        <Last>Abbott</Last>
+      </Name>
+      <Number>12</Number>
+      <QBR>0</QBR>
+    </Quarterback>
+    <Quarterback Height="6'3&quot;">
+      <Name>
+        <First>Anthony</First>
+        <Last>Brown</Last>
+      </Name>
+      <Number>13</Number>
+      <QBR>70</QBR>
+    </Quarterback>
+    <Schedule>
+      <Wk1>Frenso State</Wk1>
+      <Wk2>Ohio State</Wk2>
+      <Wk3>Stony Brook</Wk3>
+    </Schedule>
+  </Team>
+  <Team Rank="42">
+    <Name>Oregon State Beavers</Name>
+    <College>Oregon State University</College>
+    <Conference>Pac-12</Conference>
+    <Quarterback Height="6'1&quot;">
+      <Name>
+        <First>Jake</First>
+        <Last>Blair</Last>
+      </Name>
+      <Number>14</Number>
+      <QBR>0</QBR>
+    </Quarterback>
+    <Quarterback Height="6'2&quot;">
+      <Name>
+        <First>Tristan</First>
+        <Last>Gebbia</Last>
+      </Name>
+      <Number>3</Number>
+      <QBR>40</QBR>
+    </Quarterback>
+    <Schedule>
+      <Wk1>Purdue</Wk1>
+      <Wk2>Hawai'i</Wk2>
+      <Wk3>Idaho</Wk3>
+    </Schedule>
+  </Team>
+  <Team Rank="71">
+    <Name>Stanford Cardinal</Name>
+    <College>Stanford University</College>
+    <Conference>Pac-12</Conference>
+    <Quarterback Height="6'6&quot;">
+      <Name>
+        <First>Tanner</First>
+        <Last>Mckee</Last>
+      </Name>
+      <Number>18</Number>
+      <QBR>62</QBR>
+    </Quarterback>
+    <Quarterback Height="6'2&quot;">
+      <Name>
+        <First>Beau</First>
+        <Last>Nelson</Last>
+      </Name>
+      <Number>27</Number>
+      <QBR>0</QBR>
+    </Quarterback>
+    <Schedule>
+      <Wk1>Kansas State</Wk1>
+      <Wk2>USC</Wk2>
+      <Wk3>Vanderbilt</Wk3>
+    </Schedule>
+  </Team>
+  <Team Rank="47">
+    <Name>UCLA Bruins</Name>
+    <College>University of California</College>
+    <Conference>Pac-12</Conference>
+    <Quarterback Height="6'1&quot;">
+      <Name>
+        <First>Chase</First>
+        <Last>Artopoeus</Last>
+      </Name>
+      <Number>3</Number>
+      <QBR>0</QBR>
+    </Quarterback>
+    <Quarterback Height="6'3&quot;">
+      <Name>
+        <First>Ethan</First>
+        <Last>Garbers</Last>
+      </Name>
+      <Number>4</Number>
+      <QBR>40</QBR>
+    </Quarterback>
+    <Schedule>
+      <Wk1>Hawai'i</Wk1>
+      <Wk2>LSU</Wk2>
+      <Wk3>Fresno State</Wk3>
+    </Schedule>
+  </Team>
+  <Team Rank="62">
+    <Name>USC Trojans</Name>
+    <College>University of Southern California</College>
+    <Conference>Pac-12</Conference>
+    <Quarterback Height="5'9&quot;">
+      <Name>
+        <First>Brad</First>
+        <Last>Aoki</Last>
+      </Name>
+      <Number>38</Number>
+      <QBR>0</QBR>
+    </Quarterback>
+    <Quarterback Height="6'3&quot;">
+      <Name>
+        <First>Brendan</First>
+        <Last>Costello</Last>
+      </Name>
+      <Number>29</Number>
+      <QBR>0</QBR>
+    </Quarterback>
+    <Schedule>
+      <Wk1>San Jose State</Wk1>
+      <Wk2>Stanford</Wk2>
+      <Wk3>Washington State</Wk3>
+    </Schedule>
+  </Team>
+  <Team Rank="30">
+    <Name>Utah Utes</Name>
+    <College>University of Utah</College>
+    <Conference>Pac-12</Conference>
+    <Quarterback Height="6'1&quot;">
+      <Name>
+        <First>Bryson</First>
+        <Last>Barnes</Last>
+      </Name>
+      <Number>16</Number>
+      <QBR>0</QBR>
+    </Quarterback>
+    <Quarterback Height="6'1&quot;">
+      <Name>
+        <First>Charlie</First>
+        <Last>Brewer</Last>
+      </Name>
+      <Number>12</Number>
+      <QBR>55</QBR>
+    </Quarterback>
+    <Schedule>
+      <Wk1>Weber State</Wk1>
+      <Wk2>BYU</Wk2>
+      <Wk3>San Diego State</Wk3>
+    </Schedule>
+  </Team>
+  <Team Rank="70">
+    <Name>Washington Huskies</Name>
+    <College>University of Washington</College>
+    <Conference>Pac-12</Conference>
+    <Quarterback Height="6'2&quot;">
+      <Name>
+        <First>Sam</First>
+        <Last>Haurd</Last>
+      </Name>
+      <Number>7</Number>
+      <QBR>35</QBR>
+    </Quarterback>
+    <Quarterback Height="6'1&quot;">
+      <Name>
+        <First>Tyson</First>
+        <Last>Lang</Last>
+      </Name>
+      <Number>14</Number>
+      <QBR>0</QBR>
+    </Quarterback>
+    <Schedule>
+      <Wk1>Montana</Wk1>
+      <Wk2>Michigan</Wk2>
+      <Wk3>Arkansas State</Wk3>
+    </Schedule>
+  </Team>
+  <Team Rank="56">
+    <Name>Washington State Cougars</Name>
+    <College>Washington State University</College>
+    <Conference>Pac-12</Conference>
+    <Quarterback Height="6'3&quot;">
+      <Name>
+        <First>Cammon</First>
+        <Last>Cooper</Last>
+      </Name>
+      <Number>2</Number>
+      <QBR>45</QBR>
+    </Quarterback>
+    <Quarterback Height="6'3&quot;">
+      <Name>
+        <First>Victor</First>
+        <Last>Gabalis</Last>
+      </Name>
+      <Number>10</Number>
+      <QBR>0</QBR>
+    </Quarterback>
+    <Schedule>
+      <Wk1>Utah State</Wk1>
+      <Wk2>Portland State</Wk2>
+      <Wk3>USC</Wk3>
+    </Schedule>
+  </Team>
+  <Team Rank="12">
+    <Name>Baylor Bears</Name>
+    <College>Baylor University</College>
+    <Conference>Big 12</Conference>
+    <Quarterback Height="5'10&quot;">
+      <Name>
+        <First>Brandon</First>
+        <Last>Bass</Last>
+      </Name>
+      <Number>18</Number>
+      <QBR>36.5</QBR>
+    </Quarterback>
+    <Quarterback Height="6'3&quot;">
+      <Name>
+        <First>Jerry</First>
+        <Last>Bohanon</Last>
+      </Name>
+      <Number>11</Number>
+      <QBR>73.2</QBR>
+    </Quarterback>
+    <Schedule>
+      <Wk1>Texas State</Wk1>
+      <Wk2>Texas Southern</Wk2>
+      <Wk3>Kansas</Wk3>
+    </Schedule>
+  </Team>
+  <Team Rank="34">
+    <Name>Iowa State Cyclones</Name>
+    <College>Iowa State University</College>
+    <Conference>Big 12</Conference>
+    <Quarterback Height="6'6&quot;">
+      <Name>
+        <First>Aiden</First>
+        <Last>Bouman</Last>
+      </Name>
+      <Number>14</Number>
+      <QBR>0</QBR>
+    </Quarterback>
+    <Quarterback Height="6'2&quot;">
+      <Name>
+        <First>Blake</First>
+        <Last>Clark</Last>
+      </Name>
+      <Number>10</Number>
+      <QBR>0</QBR>
+    </Quarterback>
+    <Schedule>
+      <Wk1>Northern Iowa</Wk1>
+      <Wk2>Iowa</Wk2>
+      <Wk3>UNLV</Wk3>
+    </Schedule>
+  </Team>
+  <Team Rank="120">
+    <Name>Kansas Jayhawks</Name>
+    <College>University of Kansas</College>
+    <Conference>Big 12</Conference>
+    <Quarterback Height="6'3&quot;">
+      <Name>
+        <First>Jason</First>
+        <Last>Bean</Last>
+      </Name>
+      <Number>17</Number>
+      <QBR>57</QBR>
+    </Quarterback>
+    <Quarterback Height="6'0&quot;">
+      <Name>
+        <First>Jalon</First>
+        <Last>Daniels</Last>
+      </Name>
+      <Number>6</Number>
+      <QBR>51</QBR>
+    </Quarterback>
+    <Schedule>
+      <Wk1>South Dakota</Wk1>
+      <Wk2>Coastal California</Wk2>
+      <Wk3>Baylor</Wk3>
+    </Schedule>
+  </Team>
+  <Team xmlns="">
+    <Name>Cincinnati Bearcats</Name>
+    <College>University of Cincinnati</College>
+    <Conference>American</Conference>
+    <Quarterback Height="6'4&quot;">
+      <Name>
+        <First>Desmond</First>
+        <Last>Ridder</Last>
+      </Name>
+      <Number>9</Number>
+      <QBR>70</QBR>
+    </Quarterback>
+    <Quarterback Height="6'1&quot;">
+      <Name>
+        <First>Jack</First>
+        <Last>Perry</Last>
+      </Name>
+      <Number>10</Number>
+      <QBR>0</QBR>
+    </Quarterback>
+    <Schedule>
+      <Wk1>Miami</Wk1>
+      <Wk2>Murray State</Wk2>
+      <Wk3>Indiana</Wk3>
+    </Schedule>
+  </Team>
+</Teams>

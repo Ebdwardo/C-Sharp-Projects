@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+               elementFormDefault="qualified" attributeFormDefault="unqualified">
+	<xsd:element name="Teams">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element name="Team" type="Team" minOccurs="1" maxOccurs="unbounded"/>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:complexType name = "Team">
+		<xsd:sequence>
+			<xsd:element name="Name" type="xsd:string" minOccurs="1" maxOccurs="1"/>
+			<xsd:element name="College" type="xsd:string" minOccurs="1" maxOccurs="1"/>
+			<xsd:element name="Conference" type="xsd:string" minOccurs="1" maxOccurs="1"/>
+			<xsd:element name="Quarterback" type= "Quarterback" minOccurs="2" maxOccurs="unbounded"/>
+			<xsd:element name="Schedule" type= "Schedule" minOccurs="1" maxOccurs="1"/>
+		</xsd:sequence>
+		<xsd:attribute name="Rank" type="xsd:string" use="optional" />
+	</xsd:complexType>
+	
+	<xsd:complexType name = "Quarterback">
+		<xsd:sequence>
+			<xsd:element name="Name" type="Name" minOccurs="1" maxOccurs="1"/>
+			<xsd:element name="Number" type="xsd:string" minOccurs="1" maxOccurs="1"/>
+			<xsd:element name="QBR" type="xsd:string" minOccurs="1" maxOccurs="1"/>
+		</xsd:sequence>
+		<xsd:attribute name="Height" type="xsd:string" use="required" />
+	</xsd:complexType>
+
+	<xsd:complexType name = "Schedule">
+		<xsd:sequence>
+			<xsd:element name="Wk1" type="xsd:string" minOccurs="1" maxOccurs="1"/>
+			<xsd:element name="Wk2" type="xsd:string" minOccurs="1" maxOccurs="1"/>
+			<xsd:element name="Wk3" type="xsd:string" minOccurs="1" maxOccurs="1"/>
+		</xsd:sequence>
+	</xsd:complexType>
+
+	<xsd:complexType name = "Name">
+		<xsd:sequence>
+			<xsd:element name= "First" type="xsd:string"/>
+			<xsd:element name= "Last" type="xsd:string"/>
+		</xsd:sequence>
+	</xsd:complexType>
+
+</xsd:schema>

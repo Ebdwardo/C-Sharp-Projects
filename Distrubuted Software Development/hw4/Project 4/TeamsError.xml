@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Teams>
+	<Team Rank ="120">
+		<Name>Kansas Jayhawks</Name>
+		<College>University of Kansas</College>
+		<Conference>Big 12</Conference>
+
+		<Quarterback>
+			<Name>
+				<First>Jason</First>
+				<Last>Bean</Last>
+			</Name>
+			<Number>17</Number>
+			<QBR>57</QBR>
+		</Quarterback>
+
+		<Quarterback >
+			<Name>
+				<First>Jalon</First>
+				<Last>Daniels</Last>
+			</Name>
+			<Number>6</Number>
+			<QBR>51</QBR>
+		</Quarterback>
+
+		<Schedule>
+			<Wk1>South Dakota</Wk1>
+			<Wk2>Coastal California</Wk2>
+			<Wk3>Baylor</Wk3>
+		</Schedule>
+	</Team>
+</Teams>
